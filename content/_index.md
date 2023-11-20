@@ -64,7 +64,7 @@ sections:
           location: Cairo
           date_start: '2022-07-01'
           date_end: '2022-08-01'
-          description: |2-
+          description: 
               Description:
 
               * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.

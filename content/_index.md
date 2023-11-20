@@ -4,63 +4,43 @@ title: ''
 date: 2022-10-24
 type: landing
 
+# ...
 sections:
-  
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  # - block: skills
-  #   content:
-  #     title: Skills
-  #     text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      #username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-        items:
-    - title: Integration Engineer
-      company: Vodafone
-      company_url: ''
-      location: Cairo
-      date_start: '2023-11-01'
-      date_end: ''
-      description: |2-
-          Developing using:
-          * Tibco
-          * Java | Springboot
+      items:
+        - title: Integration Engineer
+          company: Vodafone
+          company_url: ''
+          location: Cairo
+          date_start: '2023-11-01'
+          date_end: ''
+          description: |2-
+              Developing using:
+              * Tibco
+              * Java | Springboot
 
-    - title: Backend Engineering Intern
-      company: Bank Misr Digital Factory
-      location: Cairo
-      date_start: '2022-08-01'
-      date_end: '2022-09-01'
-      description: |2-
-          Description:
-          * Learnt Java/Spring boot through the internship.
-          * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
+        - title: Backend Engineering Intern
+          company: Bank Misr Digital Factory
+          location: Cairo
+          date_start: '2022-08-01'
+          date_end: '2022-09-01'
+          description: |2-
+              Description:
+              * Learnt Java/Spring boot through the internship.
+              * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
 
-    - title: Intern
-      company: Gameball Company
-      location: Cairo
-      date_start: '2022-07-01'
-      date_end: '2022-08-01'
-      description: |2-
-          Description:
-          * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
+        - title: Intern
+          company: Gameball Company
+          location: Cairo
+          date_start: '2022-07-01'
+          date_end: '2022-08-01'
+          description: |2-
+              Description:
+              * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
+# ...
 
             columns: '2'
   # - block: accomplishments

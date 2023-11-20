@@ -46,8 +46,8 @@ sections:
               
         - title: Backend Engineering Intern
           company: Bank Misr Digital Factory
-          # company_url: ''
-          # company_logo: org-x
+          company_url: ''
+          company_logo: org-x
           location: Cairo
           date_start: '2022-8-01'
           date_end: '2022-9-1'

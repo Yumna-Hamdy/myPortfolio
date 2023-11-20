@@ -57,17 +57,17 @@ sections:
               * Learnt Java/Spring boot through the internship.
               * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
 
-          - title: Intern
-          company: Gameball Company
-          # company_url: ''
-          # company_logo: org-x
-          location: Cairo
-          date_start: '2022-07-01'
-          date_end: '2022-08-01'
-          description: 
-              Description:
+      - title: Intern
+        company: Gameball Company
+        # company_url: ''
+        # company_logo: org-x
+        location: Cairo
+        date_start: '2022-07-01'
+        date_end: '2022-08-01'
+        description: 
+            Description:
 
-              * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
+            * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
       columns: '2'
   # - block: accomplishments
   #   content:

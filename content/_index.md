@@ -57,6 +57,10 @@ sections:
               * Learnt Java/Spring boot through the internship.
               * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
 
+        - title: Intern
+          company: Gameball Company
+          location: Cairo
+
               
       columns: '2'
   # - block: accomplishments

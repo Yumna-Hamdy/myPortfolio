@@ -31,40 +31,37 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Integration Engineer
-          company: Vodafone
-          company_url: ''
-          location: Cairo
-          date_start: '2023-11-01'
-          date_end: ''
-          description: |2-
-              Developing using:
+        items:
+    - title: Integration Engineer
+      company: Vodafone
+      company_url: ''
+      location: Cairo
+      date_start: '2023-11-01'
+      date_end: ''
+      description: |2-
+          Developing using:
+          * Tibco
+          * Java | Springboot
 
-              * Tibco
-              * Java | Springboot
-              
-        - title: Backend Engineering Intern
-          company: Bank Misr Digital Factory
-          # company_url: ''
-          # company_logo: org-x
-          location: Cairo
-          date_start: '2022-08-01'
-          date_end: '2022-09-01'
-          description: |2-
-              Description:
+    - title: Backend Engineering Intern
+      company: Bank Misr Digital Factory
+      location: Cairo
+      date_start: '2022-08-01'
+      date_end: '2022-09-01'
+      description: |2-
+          Description:
+          * Learnt Java/Spring boot through the internship.
+          * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
 
-              * Learnt Java/Spring boot through the internship.
-              * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
+    - title: Intern
+      company: Gameball Company
+      location: Cairo
+      date_start: '2022-07-01'
+      date_end: '2022-08-01'
+      description: |2-
+          Description:
+          * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
 
-      - title: Intern
-        company: Gameball Company
-        location: Cairo
-        date_start: '2022-07-01'
-        date_end: '2022-08-01'
-        description: |2-
-            Description:
-            * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
             columns: '2'
   # - block: accomplishments
   #   content:

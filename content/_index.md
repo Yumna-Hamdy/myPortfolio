@@ -60,6 +60,10 @@ sections:
         - title: Intern
           company: Gameball Company
           location: Cairo
+          date_start: '2022-07-01'
+          date_end: '2022-08-01'
+          description: |2-
+              Description: fg
 
               
       columns: '2'

@@ -59,16 +59,13 @@ sections:
 
       - title: Intern
         company: Gameball Company
-        # company_url: ''
-        # company_logo: org-x
         location: Cairo
         date_start: '2022-07-01'
         date_end: '2022-08-01'
-        description: 
+        description: |2-
             Description:
-
             * Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
-      columns: '2'
+            columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

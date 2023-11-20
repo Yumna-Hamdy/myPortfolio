@@ -44,15 +44,18 @@ sections:
               * Tibco
               * Java | Springboot
               
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
+        - title: Backend Engineering Intern
+          company: Bank Misr Digital Factory
+          # company_url: ''
+          # company_logo: org-x
+          location: Cairo
           date_start: '2022-08-01'
           date_end: '2022-09-01'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+          description: |2-
+              Developing using:
+
+              * Learnt Java/Spring boot through the internship.
+              * Collaborated with a team of developers to work on a project using Spring Boot and a MySQL database.
       columns: '2'
   # - block: accomplishments
   #   content:

@@ -38,12 +38,13 @@ sections:
           location: Cairo
           date_start: '2023-11-01'
           date_end: ''
+          
           description: |2-
               Developing using:
 
               * Tibco
               * Java | Springboot
-              
+               Description: Designing and implementing seamless connectivity solutions between the company's innovative products and external systems.
         - title: Backend Engineering Intern
           company: Bank Misr Digital Factory
           # company_url: ''

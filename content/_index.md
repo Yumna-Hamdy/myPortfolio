@@ -69,7 +69,7 @@ sections:
           description: |2-
               Description: Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
 
-        - title: Bipmedical Engineering Intern
+        - title: Biomedical Engineering Intern
           company: 57357 Hospital
           location: Cairo
           date_start: '2021-08-01'

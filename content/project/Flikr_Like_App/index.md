@@ -1,8 +1,8 @@
 ---
 title: Flikr-like Application
-summary: Developed in the backend of a Flickr-like application uing Django framework, MongoDB NoSQL database
+summary: Developed in the backend of a Flickr-like application using Django framework, MongoDB NoSQL database
 tags:
-  - Deep Learning
+  - Web-Dev
 #date: "2023-02-2023-04"
 
 # Optional external URL for project (replaces project detail page).

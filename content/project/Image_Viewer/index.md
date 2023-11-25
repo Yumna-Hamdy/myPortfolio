@@ -1,9 +1,9 @@
 ---
 title: 3D Image Viewer
-summary: Used PyQT to develop a viewer by PyQT that views the saggital, coronal, axial and oblique planes of dicom images.
+summary: Used PyQT to develop a viewer that views the saggital, coronal, axial and oblique planes of dicom images.
 
 tags:
-  - Deep Learning
+  - Computer Vision
 date: "2022-10-2022-12"
 
 # Optional external URL for project (replaces project detail page).

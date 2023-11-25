@@ -1,6 +1,6 @@
 ---
 title: AI-Based Communication Tool for High-Functioning Autistic Children
-summary: A tool can be used by autistic individuals to ease their social communication, through which deep learning and game development are used. 
+summary: A tool can be used by autistic individuals to ease their social communication, through which deep learning and game development are used. (Gained 21st position out of 183 teams in Dell envision the future competition for graduation projects)
 tags:
   - Deep Learning
 date: '2022-08-2023-06'
@@ -18,7 +18,7 @@ links:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1Ekl0MDrz6fKXJyOSkQJwUuzL-Lc730mq/view?usp=sharing'
 url_slides: ''
 url_video: 'https://youtu.be/VGcfjWTSmI0'
 

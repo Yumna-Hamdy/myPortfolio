@@ -2,7 +2,7 @@
 title: Predicting the stay length of a COVID patient in hospital
 summary: Used classical ML to predict the length of stay of a COVID-19 patient and we were able to get 92% accuracy by using KNN algorithm
 tags:
-  - Machine Learning
+  - Deep Learning
 #date: "2016-04-27T00:00:00Z"
 url_code: https://github.com/Yumna-Hamdy/Predicting_Stay_Length_In_Hospital
 # Optional external URL for project (replaces project detail page).

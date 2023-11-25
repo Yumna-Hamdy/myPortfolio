@@ -44,7 +44,10 @@ sections:
 
               * Tibco
               * Java | Springboot
+              
                Description: Designing and implementing seamless connectivity solutions between the company's innovative products and external systems.
+
+
         - title: Backend Engineering Intern
           company: Bank Misr Digital Factory
           # company_url: ''

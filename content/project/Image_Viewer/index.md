@@ -1,5 +1,5 @@
 ---
-title: 3D Image Viewer
+title: Three-D Image Viewer
 summary: Used PyQT to develop a viewer that views the saggital, coronal, axial and oblique planes of dicom images.
 
 tags:

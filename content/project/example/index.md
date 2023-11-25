@@ -1,26 +1,26 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: AI-Based Communication Tool for High-Functioning Autistic Children
+summary: A tool can be used by autistic individuals to ease their social communication, through which deep learning and game development are used. 
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-08-2023-06'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: youtube
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/VGcfjWTSmI0'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

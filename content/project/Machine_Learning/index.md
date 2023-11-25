@@ -1,6 +1,6 @@
 ---
 title: Machine Learning Practices 
-summary: ../external-project
+summary: My anwers to Coursera assignments in the Machine Learning course.
 tags:
   - Deep Learning
 #date: "2023-02-2023-04"

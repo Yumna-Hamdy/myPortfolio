@@ -4,7 +4,7 @@ summary: Used PyQT to develop a viewer that views the saggital, coronal, axial a
 
 tags:
   - Computer Vision
-date: "2022-10-2022-12"
+#date: "2022-10-2022-12"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 

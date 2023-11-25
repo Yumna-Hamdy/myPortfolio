@@ -4,7 +4,7 @@ summary: Used PyQT to develop a viewer by PyQT that views the saggital, coronal,
 Tech stack Tensor flow, Python.
 tags:
   - Computer Vision
-#date: "2023-02-2023-04"
+date: "2023-02-2023-04"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 

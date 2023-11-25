@@ -3,11 +3,11 @@
 title: Yumna Hamdy
 
 # Name pronunciation (optional)
-name_pronunciation: Yumna Hamdy
+#name_pronunciation: Yumna Hamdy
 
-# # Full name (for SEO)
-# first_name: Yumna
-# last_name: Hamdy
+# Full name (for SEO)
+first_name: Yumna
+last_name: Hamdy
 
 # Status emoji
 status:

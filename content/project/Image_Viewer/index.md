@@ -1,7 +1,7 @@
 ---
 title: 3D Image Viewer
 summary: Used PyQT to develop a viewer by PyQT that views the saggital, coronal, axial and oblique planes of dicom images.
-Tech stack Tensor flow, Python.
+
 tags:
   - Deep Learning
 date: "2022-10-2022-12"

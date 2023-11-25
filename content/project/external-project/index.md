@@ -7,9 +7,10 @@ tags:
 date: "2023-02-2023-04"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/Yumna-Hamdy/Deep-Learning-Detecting-Melanoma
-code: https://github.com/Yumna-Hamdy/Deep-Learning-Detecting-Melanoma
+external_link: 
+url_code: https://github.com/Yumna-Hamdy/Deep-Learning-Detecting-Melanoma
 # image:
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
 ---
+The dataset link: https://www.kaggle.com/competitions/siim-isic-melanoma-classification/data

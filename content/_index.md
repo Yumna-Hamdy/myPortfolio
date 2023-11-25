@@ -69,12 +69,13 @@ sections:
           description: |2-
               Description: Examined successful case studies, participated in workshops and seminars, and conducted extensive research to learn about the technical and non-technical needs for creating a firm.
 
-        - title: Intern
+        - title: Bipmedical Engineering Intern
           company: 57357 Hospital
           location: Cairo
           date_start: '2021-08-01'
           date_end: '2021-10-01'
           description: |2-
+              * Learnt the physics behind the MRI, CT, X-ray and Ultrasound.
               * Gained practical experience in biomedical techniques under the guidance of experienced researchers. 
               * Attended seminars and workshops, actively participating in discussions to broaden knowledge and understanding of biomedical research processes.
 

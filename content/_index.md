@@ -169,10 +169,6 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Machine Learning
-          tag: Machine Learning
-        - name: Computer Vision
-          tag: Computer Vision
         - name: Other
           tag: Demo
     design:

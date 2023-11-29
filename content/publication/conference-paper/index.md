@@ -11,9 +11,8 @@ Children'
 
 # Author notes (optional)
 author_notes:
-  - 'Farah Osama'
-  - 'Yumna Hamdy'
-
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2023-11-21T00:00:00Z'
 doi: ''
@@ -30,10 +29,11 @@ publication_types: ['paper-conference']
 publication: In *IEEE EMBS Conference*
 #publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: High-functioning autistic children tend to have poor verbal and nonverbal communication skills, which makes it hard for them to understand people’s cues and blend in with their community.This paper presents a solution to help Arabicspeaking children with autism communicate effectively and understand others’ feelings. Our AI-based Communication Tool uses a mobile camera to capture the speaker’s image and informs the autistic child of their emotions through a mobile app. We used images from the FER+ dataset to train on several TensorFlow models to achieve accurate facial recognition. We achieved 83.97% accuracy. Furthermore, we develop games on the mobile application using Unity to help autistic children practice different social scenarios.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A tool can be used by autistic individuals to ease their social communication, through which deep learning and game development are used.
+
 
 tags:
   - Deep Learning

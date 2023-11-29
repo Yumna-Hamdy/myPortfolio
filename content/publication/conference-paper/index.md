@@ -5,13 +5,19 @@ Children'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# authors:
-#   - admin
-#   - Robert Ford
+authors:
+  - Farah Osama
+  - Fatmah Issam
+  - Menna Hesham
+  - Menna Kamel
+  - Yumna Hamdy
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution' Yumna Hamdy
+  - 'Equal contribution' 
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
   - 'Equal contribution'
 
 date: '2023-11-21T00:00:00Z'

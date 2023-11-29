@@ -11,6 +11,7 @@ authors:
   - Menna Hesham
   - Menna Kamel
   - Yumna Hamdy
+  
 
 # Author notes (optional)
 author_notes:
@@ -59,7 +60,7 @@ url_pdf: 'uploads/conference-paper'
 url_dataset: 'https://paperswithcode.com/dataset/fer'
 url_poster: ''
 url_project: ''
-url_slides: ''
+#url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: 'https://youtu.be/VGcfjWTSmI0'
 

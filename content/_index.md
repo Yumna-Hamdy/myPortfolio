@@ -177,6 +177,8 @@ sections:
           tag: DSP
         - name: Web-Dev
           tag: Web-Dev
+        - name: Game-Dev
+          tag: Game-Dev
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
